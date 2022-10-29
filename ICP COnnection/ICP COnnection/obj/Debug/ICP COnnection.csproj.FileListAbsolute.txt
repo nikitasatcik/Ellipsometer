@@ -1,0 +1,39 @@
+c:\users\nikita\documents\visual studio 2013\Projects\ICP COnnection\ICP COnnection\bin\Debug\ICP COnnection.exe.config
+c:\users\nikita\documents\visual studio 2013\Projects\ICP COnnection\ICP COnnection\bin\Debug\ICP COnnection.exe
+c:\users\nikita\documents\visual studio 2013\Projects\ICP COnnection\ICP COnnection\bin\Debug\ICP COnnection.pdb
+c:\users\nikita\documents\visual studio 2013\Projects\ICP COnnection\ICP COnnection\obj\Debug\ICP_COnnection.Properties.Resources.resources
+c:\users\nikita\documents\visual studio 2013\Projects\ICP COnnection\ICP COnnection\obj\Debug\ICP COnnection.csproj.GenerateResource.Cache
+c:\users\nikita\documents\visual studio 2013\Projects\ICP COnnection\ICP COnnection\obj\Debug\ICP COnnection.exe
+c:\users\nikita\documents\visual studio 2013\Projects\ICP COnnection\ICP COnnection\obj\Debug\ICP COnnection.pdb
+C:\Users\Nikita\Documents\Visual Studio 2013\Projects\ICP COnnection\ICP COnnection\obj\Debug\ICP COnnection.csprojResolveAssemblyReference.cache
+D:\Dropbox\Ellipsometer V1\C#\ICP COnnection\ICP COnnection\bin\Debug\ICP COnnection.exe.config
+D:\Dropbox\Ellipsometer V1\C#\ICP COnnection\ICP COnnection\obj\Debug\ICP COnnection.exe
+D:\Dropbox\Ellipsometer V1\C#\ICP COnnection\ICP COnnection\obj\Debug\ICP COnnection.pdb
+D:\Dropbox\Ellipsometer V1\C#\ICP COnnection\ICP COnnection\bin\Debug\ICP COnnection.exe
+D:\Dropbox\Ellipsometer V1\C#\ICP COnnection\ICP COnnection\bin\Debug\ICP COnnection.pdb
+D:\Dropbox\Ellipsometer V1\C#\ICP COnnection\ICP COnnection\obj\Debug\ICP COnnection.csprojResolveAssemblyReference.cache
+D:\Dropbox\Ellipsometer V1\C#\ICP COnnection\ICP COnnection\obj\Debug\ICP_COnnection.Form1.resources
+D:\Dropbox\Ellipsometer V1\C#\ICP COnnection\ICP COnnection\obj\Debug\ICP_COnnection.Properties.Resources.resources
+D:\Dropbox\Ellipsometer V1\C#\ICP COnnection\ICP COnnection\obj\Debug\ICP COnnection.csproj.GenerateResource.Cache
+C:\Users\Nikita\Documents\Visual Studio 2013\Projects\ICP COnnection\ICP COnnection\obj\Debug\ICP_COnnection.Ellipsometer.resources
+C:\Users\Nikita\Documents\Visual Studio 2013\Projects\ICP COnnection\ICP COnnection\obj\Debug\ICP COnnection.exe.licenses
+D:\Dropbox\IMF_Ellipsometer\ICP COnnection\ICP COnnection\bin\Debug\ICP COnnection.exe.config
+D:\Dropbox\IMF_Ellipsometer\ICP COnnection\ICP COnnection\obj\Debug\ICP COnnection.exe
+D:\Dropbox\IMF_Ellipsometer\ICP COnnection\ICP COnnection\obj\Debug\ICP COnnection.pdb
+D:\Dropbox\IMF_Ellipsometer\ICP COnnection\ICP COnnection\bin\Debug\ICP COnnection.exe
+D:\Dropbox\IMF_Ellipsometer\ICP COnnection\ICP COnnection\bin\Debug\ICP COnnection.pdb
+D:\Dropbox\IMF_Ellipsometer\ICP COnnection\ICP COnnection\obj\Debug\ICP COnnection.csprojResolveAssemblyReference.cache
+D:\Dropbox\IMF_Ellipsometer\ICP COnnection\ICP COnnection\obj\Debug\ICP_COnnection.Ellipsometer.resources
+D:\Dropbox\IMF_Ellipsometer\ICP COnnection\ICP COnnection\obj\Debug\ICP_COnnection.Properties.Resources.resources
+D:\Dropbox\IMF_Ellipsometer\ICP COnnection\ICP COnnection\obj\Debug\ICP COnnection.csproj.GenerateResource.Cache
+D:\Dropbox\IMF_Ellipsometer\ICP COnnection\ICP COnnection\obj\Debug\ICP COnnection.exe.licenses
+C:\Users\nikita\Dropbox\IMF_Ellipsometer\ICP COnnection\ICP COnnection\bin\Debug\ICP COnnection.exe.config
+C:\Users\nikita\Dropbox\IMF_Ellipsometer\ICP COnnection\ICP COnnection\obj\Debug\ICP COnnection.exe
+C:\Users\nikita\Dropbox\IMF_Ellipsometer\ICP COnnection\ICP COnnection\obj\Debug\ICP COnnection.pdb
+C:\Users\nikita\Dropbox\IMF_Ellipsometer\ICP COnnection\ICP COnnection\bin\Debug\ICP COnnection.exe
+C:\Users\nikita\Dropbox\IMF_Ellipsometer\ICP COnnection\ICP COnnection\bin\Debug\ICP COnnection.pdb
+C:\Users\nikita\Dropbox\IMF_Ellipsometer\ICP COnnection\ICP COnnection\obj\Debug\ICP COnnection.csprojResolveAssemblyReference.cache
+C:\Users\nikita\Dropbox\IMF_Ellipsometer\ICP COnnection\ICP COnnection\obj\Debug\ICP_COnnection.Ellipsometer.resources
+C:\Users\nikita\Dropbox\IMF_Ellipsometer\ICP COnnection\ICP COnnection\obj\Debug\ICP_COnnection.Properties.Resources.resources
+C:\Users\nikita\Dropbox\IMF_Ellipsometer\ICP COnnection\ICP COnnection\obj\Debug\ICP COnnection.csproj.GenerateResource.Cache
+C:\Users\nikita\Dropbox\IMF_Ellipsometer\ICP COnnection\ICP COnnection\obj\Debug\ICP COnnection.exe.licenses
