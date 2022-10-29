@@ -68,7 +68,7 @@ namespace ICP_COnnection
         }
 
         /************************************ START ************************************/
-
+		
 		// Start program in  ellipsometric mode
         private void radButton2_Click(object sender, EventArgs e)
         {
